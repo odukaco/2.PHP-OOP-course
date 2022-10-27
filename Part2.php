@@ -1,5 +1,5 @@
 <?php
-class Car2
+class Car
 {
     private $color = 'red';
     private $weight = 2000;
@@ -22,8 +22,8 @@ class Car2
 
 }
 
-$myCar=new Car2('green',2001);
-$myCar2=new Car2('blue',2500);
+$myCar=new Car('green',2001);
+$myCar2=new Car('blue',2500);
 // echo '<pre>';
 // var_dump($myCar);
 // echo '</pre>';
