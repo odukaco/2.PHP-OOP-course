@@ -97,5 +97,5 @@ $p=new Person('Michael',123456);
 // echo '<pre>';
 // var_dump($pUnser);
 // echo '</pre>';
-//$newPerson=clone $p;
+$newPerson=clone $p;
 echo Person::$counter;
