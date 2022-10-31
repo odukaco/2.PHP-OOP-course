@@ -1,0 +1,15 @@
+{
+    "name": "localpc1/oop",
+    "autoload": {
+        "psr-4": {
+            "Localpc1\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adrian",
+            "email": "adrian.radu@leviatan.ro"
+        }
+    ],
+    "require": {}
+}
