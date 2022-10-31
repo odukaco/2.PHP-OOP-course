@@ -66,4 +66,3 @@ class class1
     use trait3;
 }
 $c=new class1();
-echo var_dump($c);
